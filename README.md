@@ -1,11 +1,11 @@
 ### Rafael Carvalho
 Estudante de ADS · FATEC Guaratinguetá
 
-Estudante no 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Comecei a faculdade com foco em back-end e venho me atualizando por conta própria também, estudando SQL, modelagem de banco de dados, Git e JavaScript. Estou sempre aprendendo algo novo e aplicando em projetos para fixar melhor.
+Estudante no 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Comecei a faculdade com foco em fullstack e venho me atualizando por conta própria também, estudando SQL, modelagem de banco de dados, Git, JavaScript, HTML e CSS. Estou sempre aprendendo algo novo e aplicando em projetos para fixar melhor.
 
 **Tecnologias**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,js" alt="MySQL, Git, JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,git" alt="HTML, CSS, JavaScript, MySQL, Git" />
 
 **Contato**
 
