@@ -1,11 +1,24 @@
-### Rafael Carvalho
-Estudante de ADS · FATEC Guaratinguetá
+### Olá, eu sou o Rafael 👋
 
-Estudante no 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Comecei a faculdade com foco em fullstack e venho me atualizando por conta própria também, estudando SQL, modelagem de banco de dados, Git, JavaScript, HTML e CSS. Estou sempre aprendendo algo novo e aplicando em projetos para fixar melhor.
+Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na **FATEC Guaratinguetá**, com foco em desenvolvimento **fullstack**. Estou em busca do meu primeiro estágio na área.
+
+Além da faculdade, estudo por conta própria e gosto de aplicar o que aprendo em projetos pequenos para fixar melhor.
 
 **Tecnologias**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git" alt="HTML, CSS, JavaScript, MySQL, Git" />
+
+**O que estou estudando**
+
+- Modelagem de banco de dados e SQL (veja o [sql-exercises](https://github.com/rafaelcarvalho-dev/sql-exercises))
+- JavaScript e construção de interfaces com HTML e CSS
+- Versionamento com Git e GitHub
+
+**Projetos**
+
+- [rafael-portfolio](https://github.com/rafaelcarvalho-dev/rafael-portfolio): meu portfólio
+- [imc-calculator](https://github.com/rafaelcarvalho-dev/imc-calculator): calculadora de IMC em JavaScript
+- [sql-exercises](https://github.com/rafaelcarvalho-dev/sql-exercises): listas de exercícios de banco de dados em MySQL
 
 **Contato**
 
