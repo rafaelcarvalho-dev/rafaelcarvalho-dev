@@ -18,7 +18,7 @@ Além da faculdade, estudo por conta própria e gosto de aplicar o que aprendo e
 
 - [rafael-portfolio](https://github.com/rafaelcarvalho-dev/rafael-portfolio): meu portfólio
 - [imc-calculator](https://github.com/rafaelcarvalho-dev/imc-calculator): calculadora de IMC em JavaScript
-- [sql-exercises](https://github.com/rafaelcarvalho-dev/sql-exercises): listas de exercícios de banco de dados em MySQL
+- [codeport-help-center](https://github.com/rafaelcarvalho-dev/codeport-help-center): Landing page de uma central de ajuda para uma ferramenta de API, feita com HTML e CSS
 
 **Contato**
 
