@@ -2,7 +2,7 @@
 
 Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na **FATEC Guaratinguetá**, com foco em desenvolvimento **fullstack**. Estou em busca do meu primeiro estágio na área.
 
-Além da faculdade, estudo por conta própria e gosto de aplicar o que aprendo em projetos pequenos para fixar melhor.
+Além da faculdade, estudo por conta própria e gosto de aplicar o que aprendo.
 
 **Tecnologias**
 
@@ -11,6 +11,7 @@ Além da faculdade, estudo por conta própria e gosto de aplicar o que aprendo e
 **O que estou estudando**
 
 - Modelagem de banco de dados e SQL (veja o [sql-exercises](https://github.com/rafaelcarvalho-dev/sql-exercises))
+- Programação em Java e aprofundamento nos recursos da linguagem (veja o [java-exercises](https://github.com/rafaelcarvalho-dev/java-exercises))
 - JavaScript e construção de interfaces com HTML e CSS
 - Versionamento com Git e GitHub
 
