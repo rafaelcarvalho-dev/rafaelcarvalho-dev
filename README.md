@@ -8,6 +8,19 @@ Além da faculdade, estudo por conta própria e gosto de aplicar o que aprendo.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git" alt="HTML, CSS, JavaScript, MySQL, Git" />
 
+<br><br>
+
+<div align="left">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaelcarvalho-dev&layout=compact&langs_count=5&card_width=300&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d"
+    width="290"
+    height="160"
+    alt="Most Used Languages"
+  />
+</div>
+
+<br><br>
+
 **O que estou estudando**
 
 - Modelagem de banco de dados e SQL (veja o [sql-exercises](https://github.com/rafaelcarvalho-dev/sql-exercises))
