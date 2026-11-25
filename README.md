@@ -1,39 +1,57 @@
-### Olá, eu sou o Rafael 👋
+# Rafael Carvalho
 
-Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na **FATEC Guaratinguetá**, com foco em desenvolvimento **fullstack**. Estou em busca do meu primeiro estágio na área.
+**Software Development Student** · Aparecida, Brazil
 
-Além da faculdade, estudo por conta própria e gosto de aplicar o que aprendo.
+Systems Analysis and Development (ADS) student at FATEC, building my foundation in programming and heading toward a full stack career. Looking for my first software development internship.
 
-**Tecnologias**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carvalho-95860a3b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rafael-portfolio-sooty-seven.vercel.app/)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,git" alt="HTML, CSS, JavaScript, MySQL, Git" />
+## About
 
-<br><br>
+- ADS student at FATEC Prof. João Mod, Guaratinguetá
+- Started with no formal programming experience and learning by building and practicing every day
+- Focused on building a really solid foundation in programming
+- Keeping my study history public
+- Learning English from scratch to work with international teams
 
-<div align="left">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rafaelcarvalho-dev&layout=compact&langs_count=5&card_width=300&theme=github_dark&bg_color=0d1117&title_color=ffffff&text_color=8b949e&border_color=30363d"
-    width="290"
-    height="160"
-    alt="Most Used Languages"
-  />
-</div>
+## Projects
 
-<br><br>
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [codeport-help-center](https://github.com/rafaelcarvalho-dev/codeport-help-center) · [Live](https://rafaelcarvalho-dev.github.io/codeport-help-center/) | Responsive landing page for the help center of a fictional API tool, with search bar and category cards | HTML, CSS |
+| [rafael-portfolio](https://github.com/rafaelcarvalho-dev/rafael-portfolio) · [Live](https://rafael-portfolio-sooty-seven.vercel.app/) | My personal portfolio | Deployed on Vercel |
+| [java-exercises](https://github.com/rafaelcarvalho-dev/java-exercises) | Java exercise lists from the Programming Language course | Java |
+| [sql-exercises](https://github.com/rafaelcarvalho-dev/sql-exercises) | Database exercise lists solved with schemas, seeds, queries, and updates | MySQL |
+| [javascript-exercises](https://github.com/rafaelcarvalho-dev/javascript-exercises) | JavaScript practice: arrays, strings, DOM, and scope | JavaScript |
 
-**O que estou estudando**
+## Tech Stack
 
-- Modelagem de banco de dados e SQL (veja o [sql-exercises](https://github.com/rafaelcarvalho-dev/sql-exercises))
-- Programação em Java e aprofundamento nos recursos da linguagem (veja o [java-exercises](https://github.com/rafaelcarvalho-dev/java-exercises))
-- JavaScript e construção de interfaces com HTML e CSS
-- Versionamento com Git e GitHub
+**Languages**
 
-**Projetos**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- [rafael-portfolio](https://github.com/rafaelcarvalho-dev/rafael-portfolio): meu portfólio
-- [codeport-help-center](https://github.com/rafaelcarvalho-dev/codeport-help-center): Landing page de uma central de ajuda para uma ferramenta de API, feita com HTML e CSS
+**Front-end**
 
-**Contato**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<a href="mailto:rafaelcarvalho.dev.br@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/rafael-carvalho-95860a3b0"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Currently
+
+- Studying Java and database modeling at FATEC
+- Building a college team project with PHP, Laravel, Bootstrap, and MySQL
+- Learning Software Engineering topics that will solidify my foundation and help me understand architecture and related areas
+- Learning new JavaScript concepts, like functions and objects
+- Practicing HTML and CSS
